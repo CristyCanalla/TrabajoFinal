@@ -1,0 +1,55 @@
+﻿2021-05-23 21:02:18.312 372:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2021-05-23 21:02:18.312 372:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2021-05-23 21:02:18.312 372:00000001 (BlueStacksInstaller) INFO: Successfully populated es-ES strings
+2021-05-23 21:02:18.312 372:00000001 (BlueStacksInstaller) INFO: Populated strings for es-ES: True
+2021-05-23 21:02:18.327 372:00000001 (BlueStacksInstaller) INFO: Assigning build platform
+2021-05-23 21:02:18.327 372:00000001 (BlueStacksInstaller) INFO: Build platform: Default
+2021-05-23 21:02:18.327 372:00000001 (BlueStacksInstaller) INFO: VersionToInstall: 5.0.100.2103, OEMToInstall: nxt, Suffix: _nxt
+2021-05-23 21:02:18.327 372:00000001 (BlueStacksInstaller) INFO: Old BGP version: 
+2021-05-23 21:02:18.327 372:00000001 (BlueStacksInstaller) INFO: Arabica version: 
+2021-05-23 21:02:18.499 372:00000004 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:02:18.499 372:00000004 (BlueStacksInstaller) INFO: No campaign
+2021-05-23 21:02:19.195 372:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2021-05-23 21:02:19.195 372:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2021-05-23 21:02:19.195 372:00000006 (BlueStacksInstaller) INFO: DetectGuestImagesToDownload initializing
+2021-05-23 21:02:19.195 372:00000006 (BlueStacksInstaller) INFO: Installation type: FreshInstall
+2021-05-23 21:02:19.195 372:00000006 (BlueStacksInstaller) INFO: Image List to be downloaded: Nougat32
+2021-05-23 21:02:19.214 372:00000001 (BlueStacksInstaller) INFO: Returning PDDir: C:\ProgramData\BlueStacks_nxt
+2021-05-23 21:02:19.215 372:00000001 (BlueStacksInstaller) INFO: Returning PFDir: C:\Program Files\BlueStacks_nxt
+2021-05-23 21:02:19.341 372:00000001 (BlueStacksInstaller) INFO: Getting installed images from conf
+2021-05-23 21:02:19.341 372:00000001 (BlueStacksInstaller) INFO: Installed images: 
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: Checking Hyper-V in system
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: IsHyperVEnabled: 0
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: Checking for supported OS
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: Operating system details: Windows 10 64-bit
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: OS Info: Name: 10, Service Pack: , Arch: 64-bit, Ver: 10.0
+2021-05-23 21:02:33.232 372:00000001 (BlueStacksInstaller) INFO: Checking for physical memory
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Available: 16318 MB, Required: 1024 MB
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: HDD space available InstallDir: 746305 MB
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Data and InstallDir same: True
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Space required InstallDir: 1000 MB
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Space required DataDir: 5120 MB
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Space required total: 6120
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Space available: 746305 MB
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Temp download path: C:\Users\Compumar\AppData\Local\Temp\BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:02:33.406 372:00000001 (BlueStacksInstaller) INFO: Installer file path: C:\Users\Compumar\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:02:33.406 372:00000011 (BlueStacksInstaller) INFO: Will download images: Nougat32
+2021-05-23 21:02:33.406 372:00000011 (BlueStacksInstaller) INFO: Downloading Nougat32 at C:\ProgramData\Nougat32_5.0.100.2103.zip
+2021-05-23 21:02:34.265 372:00000009 (BlueStacksInstaller) INFO: LastRecorded: 0, Downloaded: 10049124
+2021-05-23 21:02:39.275 372:00000006 (BlueStacksInstaller) INFO: LastRecorded: 10049124, Downloaded: 81075684
+2021-05-23 21:02:44.276 372:00000009 (BlueStacksInstaller) INFO: LastRecorded: 81075684, Downloaded: 148188324
+2021-05-23 21:02:49.283 372:00000008 (BlueStacksInstaller) INFO: LastRecorded: 148188324, Downloaded: 219772164
+2021-05-23 21:02:54.291 372:00000006 (BlueStacksInstaller) INFO: LastRecorded: 219772164, Downloaded: 290777124
+2021-05-23 21:02:59.295 372:00000006 (BlueStacksInstaller) INFO: LastRecorded: 290777124, Downloaded: 362335044
+2021-05-23 21:03:03.000 372:00000011 (BlueStacksInstaller) INFO: Download completed for image : Nougat32
+2021-05-23 21:03:03.000 372:00000011 (BlueStacksInstaller) INFO: Downloading full installer at C:\Users\Compumar\AppData\Local\Temp\BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:03:03.000 372:00000011 (BlueStacksInstaller) INFO: Download url: http://cdn3.bluestacks.com/downloads/windows/nxt/5.0.100.2103/d8d66f63c72137cb48fef7aa6aa9bdf8/x64/BlueStacks-Installer_5.0.100.2103_amd64_native.exe?filename=BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:03:04.298 372:00000008 (BlueStacksInstaller) INFO: LastRecorded: 362335044, Downloaded: 16423914
+2021-05-23 21:03:08.508 372:00000011 (BlueStacksInstaller) INFO: MIsDownloading false
+2021-05-23 21:03:08.510 372:00000010 (BlueStacksInstaller) INFO: Installer file moved from C:\Users\Compumar\AppData\Local\Temp\BlueStacksInstaller_5.0.100.2103.exe to C:\Users\Compumar\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.0.100.2103.exe
+2021-05-23 21:03:08.510 372:00000010 (BlueStacksInstaller) INFO: Running Installer process C:\Users\Compumar\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.0.100.2103.exe args :-versionMachineID=467cd705-77b2-43a0-9c53-59110337a263 -machineID=f22001ae-e156-4d97-bb1b-cd4cca1e16e7 -pddir="C:\ProgramData\BlueStacks_nxt" -defaultImageName=Nougat32 -imageToLaunch=Nougat32
+2021-05-23 21:04:21.874 372:00000010 (BlueStacksInstaller) INFO: Full installer process finished with ExitCode: 0
+2021-05-23 21:04:21.876 372:0000000E (BlueStacksInstaller) INFO: In RunBlueStacks
+2021-05-23 21:04:21.876 372:0000000E (BlueStacksInstaller) INFO: InstallDir: C:\Program Files\BlueStacks_nxt\
+2021-05-23 21:04:21.876 372:0000000E (BlueStacksInstaller) INFO: C:\Program Files\BlueStacks_nxt\HD-Player.exe --instance Nougat32
+2021-05-23 21:04:21.893 372:0000000E (BlueStacksInstaller) INFO: ExitApplication 0

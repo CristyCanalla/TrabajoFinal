@@ -1,0 +1,15 @@
+2021/08/18-20:22:15.573 2f34 Reusing MANIFEST C:\Users\Compumar\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Session Storage/MANIFEST-000001
+2021/08/18-20:22:15.573 2f34 Recovering log #16
+2021/08/18-20:22:15.644 2f34 Reusing old log C:\Users\Compumar\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Session Storage/000016.log 
+2021/08/18-20:24:43.952 c58 Level-0 table #20: started
+2021/08/18-20:24:43.978 c58 Level-0 table #20: 13312 bytes OK
+2021/08/18-20:24:44.053 c58 Delete type=0 #16
+2021/08/18-20:24:44.054 c58 Compacting 4@0 + 1@1 files
+2021/08/18-20:24:44.112 c58 Generated table #21@0: 515 keys, 10387 bytes
+2021/08/18-20:24:44.112 c58 Compacted 4@0 + 1@1 files => 10387 bytes
+2021/08/18-20:24:44.139 c58 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/18-20:24:44.140 c58 Delete type=2 #8
+2021/08/18-20:24:44.140 c58 Delete type=2 #11
+2021/08/18-20:24:44.140 c58 Delete type=2 #14
+2021/08/18-20:24:44.140 c58 Delete type=2 #17
+2021/08/18-20:24:44.140 c58 Delete type=2 #20

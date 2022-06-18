@@ -1,0 +1,16 @@
+I 2021-08-12 14:31:12.502950 [Main] {Main} Logging started for Battle.net build 2.3.1.13029
+I 2021-08-12 14:31:12.503108 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2021-08-12 14:31:12.503259 [Configuration] {Main} RoamingConfigRoot: C:\Users\Compumar\AppData\Roaming\Battle.net
+I 2021-08-12 14:31:12.503268 [Configuration] {Main} LocalConfigRoot: C:\Users\Compumar\AppData\Local\Battle.net
+D 2021-08-12 14:31:12.503360 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.13029\Battle.net.config
+D 2021-08-12 14:31:12.503402 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.config
+D 2021-08-12 14:31:12.503636 [Configuration] {Main} User Configuration File: C:\Users\Compumar\AppData\Roaming\Battle.net\Battle.net.config
+I 2021-08-12 14:31:12.504952 [Main] {Main} Command line arguments: {[0]=--detected-country=AR, [1]=--detected-region=US, [2]=--game=hs_beta, [3]=--install, [4]=--installlocale=esES, [5]=--torrentinstall, [6]=Client.ExternalMetadata=eyJzZXNzaW9uIjoiIiwiZXhwaXJlc19hdCI6IjE2Mjg4NjUxNTU0NjIiLCJjbGllbnRfaWQiOiI3Nzg1MzUwNTAuMTYyODc3ODYxMyIsInVzZXJfYWdlbnRfb3ZlcnJpZGUiOiJNb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrMTAuMCUzQitXaW42NCUzQit4NjQlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStDaHJvbWUlMkY5Mi4wLjQ1MTUuMTMxK1NhZmFyaSUyRjUzNy4zNiJ9}
+I 2021-08-12 14:31:12.506067 [Main] {Main} Opening IPC shared memory. queueName=User:Compumar:Battle.net IPC ShMem mode=client
+I 2021-08-12 14:31:12.506161 [CommandQueue] {Main} Dispatching Command: install  hs_beta torrent false  esES 0
+I 2021-08-12 14:31:12.506191 [CommandQueue] {Main} Dispatching Command: setvar Client.ExternalMetadata eyJzZXNzaW9uIjoiIiwiZXhwaXJlc19hdCI6IjE2Mjg4NjUxNTU0NjIiLCJjbGllbnRfaWQiOiI3Nzg1MzUwNTAuMTYyODc3ODYxMyIsInVzZXJfYWdlbnRfb3ZlcnJpZGUiOiJNb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrMTAuMCUzQitXaW42NCUzQit4NjQlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStDaHJvbWUlMkY5Mi4wLjQ1MTUuMTMxK1NhZmFyaSUyRjUzNy4zNiJ9
+I 2021-08-12 14:31:12.506221 [Main] {Main} Leaving because another instance of battle.net is running
+D 2021-08-12 14:31:12.506229 [Main] {Main} Shutting down Backend
+D 2021-08-12 14:31:12.506233 [Main] {Main} Closing IPC Service
+D 2021-08-12 14:31:12.506236 [CommandQueue] {Main} IPCService is shutting down
+D 2021-08-12 14:31:12.506262 [Main] {Main} Shutting down callback queue

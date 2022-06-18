@@ -1,0 +1,411 @@
+D 2021-08-12 14:14:19.547837 [Main] {Main} Removing old/extra log file: battle.net-20210603T163229.979066.log
+D 2021-08-12 14:14:19.547992 [Main] {Main} Removing old/extra log file: battle.net-20210603T204128.418011.log
+D 2021-08-12 14:14:19.548112 [Main] {Main} Removing old/extra log file: battle.net-20210605T180427.770468.log
+D 2021-08-12 14:14:19.548227 [Main] {Main} Removing old/extra log file: libcef-20210603T163236.744786.log
+D 2021-08-12 14:14:19.548328 [Main] {Main} Removing old/extra log file: libcef-20210605T180445.140458.log
+I 2021-08-12 14:14:19.548428 [Main] {Main} Logging started for Battle.net build 2.3.1.13029
+I 2021-08-12 14:14:19.548613 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2021-08-12 14:14:19.548772 [Configuration] {Main} RoamingConfigRoot: C:\Users\Compumar\AppData\Roaming\Battle.net
+I 2021-08-12 14:14:19.548778 [Configuration] {Main} LocalConfigRoot: C:\Users\Compumar\AppData\Local\Battle.net
+D 2021-08-12 14:14:19.548892 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.13029\Battle.net.config
+D 2021-08-12 14:14:19.548939 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.config
+D 2021-08-12 14:14:19.569587 [Configuration] {Main} User Configuration File: C:\Users\Compumar\AppData\Roaming\Battle.net\Battle.net.config
+I 2021-08-12 14:14:19.575099 [Main] {Main} Command line arguments: {[0]=--detected-country=AR, [1]=--detected-region=US, [2]=--game=odin, [3]=--install, [4]=--installlocale=esES, [5]=--torrentinstall}
+I 2021-08-12 14:14:19.576651 [Main] {Main} Opening IPC shared memory. queueName=User:Compumar:Battle.net IPC ShMem mode=server
+I 2021-08-12 14:14:19.929421 [CommandQueue] {Main} Dispatching Command: install  odin torrent false  esES 0
+I 2021-08-12 14:14:19.951298 [Frontend] {Main} Supplying list of renderers: d3d11,warp,desktop
+I 2021-08-12 14:14:20.197218 [LocalizationData] {Main} 21 language(s) loaded from languages.xml, default=enUS
+D 2021-08-12 14:14:20.284490 [Main] {Main} Adding application font: resources/fonts/BlizzardReg.ttf
+D 2021-08-12 14:14:20.286015 [Main] {Main} Adding application font: resources/fonts/BlizzardLig.ttf
+D 2021-08-12 14:14:20.287135 [Main] {Main} Adding application font: resources/fonts/BlizzardBol.ttf
+D 2021-08-12 14:14:20.288120 [Main] {Main} Adding application font: resources/fonts/NotoSans-Bold.ttf
+D 2021-08-12 14:14:20.291765 [Main] {Main} Adding application font: resources/fonts/NotoSans-BoldItalic.ttf
+D 2021-08-12 14:14:20.295282 [Main] {Main} Adding application font: resources/fonts/NotoSans-Italic.ttf
+D 2021-08-12 14:14:20.298996 [Main] {Main} Adding application font: resources/fonts/NotoSans-Regular.ttf
+D 2021-08-12 14:14:20.302409 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Bold.ttf
+D 2021-08-12 14:14:20.303612 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Medium.ttf
+D 2021-08-12 14:14:31.782829 [Main] {Main} Setting font to: Blizzard
+I 2021-08-12 14:14:31.798212 [CacheManager] {Main} Local storage cache at: C:\Users\Compumar\AppData\Local\Battle.net\Cache
+I 2021-08-12 14:14:31.813248 [Main] {Main} Opened database at: C:\Users\Compumar\AppData\Local\Battle.net\CachedData.db
+D 2021-08-12 14:14:31.920755 [Agent] {Agent} PolicyHandlerThreadProc: I shall in all my best obey you.
+D 2021-08-12 14:14:31.920758 [Agent] {Main} PolicyHandler Thread STARTED
+I 2021-08-12 14:14:31.948834 [Agent] {Agent} Agent has different session: 6954109093626665162
+I 2021-08-12 14:14:31.948864 [Agent] {Agent} Agent Version is now: 2.24.2.7380 (retail)
+I 2021-08-12 14:14:31.960208 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=1, oldRunning=0)
+D 2021-08-12 14:14:31.961591 [Agent] {Agent} GameResource created for uid: agent
+D 2021-08-12 14:14:31.961626 [Agent] {Agent} GameResource created for uid: battle.net
+I 2021-08-12 14:14:31.983875 [DIAG_BNL_Voice] {Main} Audio device monitor using already-initialized COM
+I 2021-08-12 14:14:31.984847 [VoiceSessionBroker] {Main} Global voice is on
+I 2021-08-12 14:14:31.985089 [Main] {Main} Execution environment changed. environment=EE_STANDARD
+I 2021-08-12 14:14:31.985492 [CatalogManager] {Main} Loaded catalog hash from the database cache. hash=933bc0bcf199c8bed45ea00dc64cfa90
+I 2021-08-12 14:14:31.985819 [CatalogManager] {Main} Built-in catalog hash (catalog/digesthash.txt): 0b2c68287f49d6113fbbcfae019ca8b9
+I 2021-08-12 14:14:31.985936 [CatalogManager] {Main} Built-in catalog hash (catalog/signaturehash.txt): 03b0a2f41ac784468f46fa5cbbc41eb8
+I 2021-08-12 14:14:31.985954 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: 933bc0bcf199c8bed45ea00dc64cfa90 I) ***
+W 2021-08-12 14:14:49.857679 [FeatureManager] {Main} Feature 'battle.net_http_request_0_c6caed0e' depends on missing feature 'http_test'
+E 2021-08-12 14:14:49.857709 [FeatureManager] {Main} Feature 'battle.net_http_request_0_c6caed0e' has dependency errors and will not respond to dependency changes
+I 2021-08-12 14:14:49.857745 [FeatureManager] {Main} Moving feature record from active to inactive: whisper_voice
+I 2021-08-12 14:14:49.857755 [FeatureManager] {Main} Moving feature record from active to inactive: trace_route
+I 2021-08-12 14:14:49.857770 [FeatureManager] {Main} Feature changed: odin_show_on_beta_5bbf784c=true
+I 2021-08-12 14:14:49.857787 [FeatureManager] {Main} Feature changed: odin_zeus_base_license_3fcdd4b4=true
+I 2021-08-12 14:14:49.857797 [FeatureManager] {Main} Feature changed: lazarus_show_on_beta_5bbf784c=true
+I 2021-08-12 14:14:49.857810 [FeatureManager] {Main} Feature changed: viper_show_on_beta_5bbf784c=true
+I 2021-08-12 14:14:49.857821 [FeatureManager] {Main} Feature changed: warcraft_iii_upgrade_05e4b09b=true
+I 2021-08-12 14:14:49.857831 [FeatureManager] {Main} Feature changed: wlby_show_on_beta_5bbf784c=true
+I 2021-08-12 14:14:49.857845 [FeatureManager] {Main} Feature changed: zeus_refresh_without_license_b63211e4=true
+I 2021-08-12 14:14:49.857856 [FeatureManager] {Main} Feature changed: zeus_show_on_beta_5bbf784c=true
+I 2021-08-12 14:14:49.934171 [FeatureManager] {Main} Feature changed: http_test=true tags=http_request_0
+I 2021-08-12 14:14:49.934210 [FeatureManager] {Main} Feature changed: shop_wish_list=true
+I 2021-08-12 14:14:49.934224 [FeatureManager] {Main} Feature changed: all_games_v2=true
+I 2021-08-12 14:14:49.934231 [FeatureManager] {Main} Feature changed: all_games_new_badge=true
+I 2021-08-12 14:14:49.934239 [FeatureManager] {Main} Feature changed: collapsible_social_panel=true
+I 2021-08-12 14:14:49.934248 [FeatureManager] {Main} Feature changed: blizzard_profiles=true
+I 2021-08-12 14:14:49.934265 [FeatureManager] {Main} Feature changed: shared_container_installs=true
+I 2021-08-12 14:14:49.934275 [FeatureManager] {Main} Feature changed: clear_chat_history=true
+I 2021-08-12 14:14:49.934283 [FeatureManager] {Main} Feature changed: mentions=true
+I 2021-08-12 14:14:49.934290 [FeatureManager] {Main} Feature changed: social_tab=true
+I 2021-08-12 14:14:49.934298 [FeatureManager] {Main} Feature changed: auto_update_optimization=true
+I 2021-08-12 14:14:49.934308 [FeatureManager] {Main} Feature changed: group_privacy_settings=true
+I 2021-08-12 14:14:49.934316 [FeatureManager] {Main} Feature changed: notification_center=true
+I 2021-08-12 14:14:49.934324 [FeatureManager] {Main} Feature changed: activision_auto_account_creation=true
+I 2021-08-12 14:14:49.934331 [FeatureManager] {Main} Feature changed: suggested_group_members=true
+I 2021-08-12 14:14:49.934338 [FeatureManager] {Main} Feature changed: appear_offline=true
+I 2021-08-12 14:14:49.934345 [FeatureManager] {Main} Feature changed: refresh_toast=true
+I 2021-08-12 14:14:49.934353 [FeatureManager] {Main} Feature changed: app_feedback_attention_center_cta=true
+I 2021-08-12 14:14:49.934360 [FeatureManager] {Main} Feature changed: app_feedback_dialog=true
+I 2021-08-12 14:14:49.934367 [FeatureManager] {Main} Feature changed: browser_main_window=true
+I 2021-08-12 14:14:49.934377 [FeatureManager] {Main} Feature changed: chat_giphy=true
+I 2021-08-12 14:14:49.934384 [FeatureManager] {Main} Feature changed: content_ui=true
+I 2021-08-12 14:14:49.934390 [FeatureManager] {Main} Feature changed: multichats=true
+I 2021-08-12 14:14:49.934398 [FeatureManager] {Main} Feature changed: first_time_experience=true
+I 2021-08-12 14:14:49.934405 [FeatureManager] {Main} Feature changed: friend_request_management=true
+I 2021-08-12 14:14:49.934412 [FeatureManager] {Main} Feature changed: link_previews=true
+I 2021-08-12 14:14:49.934419 [FeatureManager] {Main} Feature changed: sms_protect_requirements=true
+I 2021-08-12 14:14:49.934426 [FeatureManager] {Main} Feature changed: gift_inventory=true
+I 2021-08-12 14:14:49.934433 [FeatureManager] {Main} Feature changed: global_legendary_promos=true
+I 2021-08-12 14:14:49.934439 [FeatureManager] {Main} Feature changed: refresh_friend_tooltip=true
+I 2021-08-12 14:14:49.934446 [FeatureManager] {Main} Feature changed: install_packages=true
+I 2021-08-12 14:14:49.934454 [FeatureManager] {Main} Feature changed: modify_install=true
+I 2021-08-12 14:14:49.934460 [FeatureManager] {Main} Feature changed: non_friend_whispers=true
+I 2021-08-12 14:14:49.934466 [FeatureManager] {Main} Feature changed: playscreen_migrate_cms=true
+I 2021-08-12 14:14:49.934473 [FeatureManager] {Main} Feature changed: sc2_account_selection_dialog=true
+I 2021-08-12 14:14:49.934479 [FeatureManager] {Main} Feature changed: suggested_facebook_friends=true
+I 2021-08-12 14:14:49.934487 [FeatureManager] {Main} Feature changed: whisper_voice=true
+I 2021-08-12 14:14:49.934497 [FeatureManager] {Main} Feature changed: battle.net_http_request_0_c6caed0e=true
+D 2021-08-12 14:14:49.934652 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.13029\Environments.yaml
+D 2021-08-12 14:14:49.934752 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Environments.yaml
+I 2021-08-12 14:14:49.934818 [EnvironmentManager] {Main} Login parameters changed: address=us.actual.battle.net:1119 region=US
+D 2021-08-12 14:14:49.949748 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-08-12 14:14:49.949778 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-08-12 14:14:49.949790 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-08-12 14:14:49.949800 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-08-12 14:14:49.949809 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-08-12 14:14:49.949829 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-08-12 14:14:49.949840 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-08-12 14:14:49.949851 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-08-12 14:14:49.949863 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+I 2021-08-12 14:14:49.949873 [VersionManager] {Main} Beta Access: enabled
+D 2021-08-12 14:14:49.949882 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-08-12 14:14:49.949895 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+I 2021-08-12 14:14:49.953690 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2021-08-12 14:14:49.953714 [CatalogManager] {Main} Loaded initial catalog: hash=933bc0bcf199c8bed45ea00dc64cfa90
+I 2021-08-12 14:14:49.995460 [Main] {Main} d3d11: selected adapter: NVIDIA GeForce 210 
+I 2021-08-12 14:14:49.995555 [Main] {Main} d3d11: selected feature level: 0xa100
+I 2021-08-12 14:14:50.021112 [WebServer] {Backend:0} Listening on port 22885
+I 2021-08-12 14:14:50.238664 [Main] {Main} Attempting to fetch WidevineCDM: 1
+D 2021-08-12 14:14:50.242667 [UI] {Main} Fixup allowed regions and locales. installedRegion=US allowedRegions= allowedLocales=
+I 2021-08-12 14:14:50.242924 [ToastManager] {Main} Toasts are enabled in ClientSettings
+D 2021-08-12 14:14:50.243818 [ProductState] {Main} Game product state created: uid=
+D 2021-08-12 14:14:50.243844 [ProductState] {Main} InstallState (): currentOperation=Install currentOperationStatus=New
+I 2021-08-12 14:14:50.252358 [Main] {Main} Application path is: C:\Program Files (x86)\Battle.net\Battle.net.exe
+D 2021-08-12 14:14:50.661641 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/esES/client/refresh-promos?targetRegion=US
+D 2021-08-12 14:14:50.661722 [Announcements] {Main} Skipped adding slide to wow because it has expired.
+I 2021-08-12 14:14:50.661967 [ClientServiceAlertMonitor] {Main} Breaking News url has changed. url=https://nydus.battle.net/App/esES/client/App/alert?targetRegion=US
+D 2021-08-12 14:14:50.662053 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/esES/client/App/alert?targetRegion=US
+I 2021-08-12 14:14:50.662073 [ClientServiceAlertMonitor] {Main} Maintenance url has changed. url=https://nydus.battle.net/App/esES/client/App/maintenance?targetRegion=US
+D 2021-08-12 14:14:50.662144 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/esES/client/App/maintenance?targetRegion=US
+I 2021-08-12 14:14:50.663283 [Frontend] {Main} Public Computer state changed. is_public=false
+D 2021-08-12 14:14:50.663301 [Frontend] {Main} Session id changed. session_id=18021143721438583463
+D 2021-08-12 14:14:50.663342 [Frontend] {Main} Tracking info changed. client_id=EF448C3A-900F-4EE4-B2F2-C0CCA9A23F3E, user_agent=
+I 2021-08-12 14:14:50.670251 [HighDpiManager] {Main} High dpi support available changed: 0
+I 2021-08-12 14:14:50.670279 [Frontend] {Main} High dpi support: disabled
+D 2021-08-12 14:14:50.670639 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Setup depth=-1
+D 2021-08-12 14:14:50.671653 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent depth=1
+D 2021-08-12 14:14:50.672761 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.7380 depth=1
+D 2021-08-12 14:14:50.673097 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Blizzard Entertainment depth=2
+D 2021-08-12 14:14:50.860566 [Frontend] {Main} Session id changed. session_id=6954109093626665162
+I 2021-08-12 14:14:50.860895 [Agent] {Main} AgentManager is now initialized
+I 2021-08-12 14:14:50.860912 [InstallManager] {Main} Install manager is now initialized
+D 2021-08-12 14:14:50.860932 [InstallManager] {Main} Selecting best game install data for game battle.net: savedUid=battle.net originalUid=<none> newUid=battle.net
+D 2021-08-12 14:14:50.860957 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=battle.net agentUid=battle.net
+D 2021-08-12 14:14:50.860989 [VersionManager] {Main} Branch change from Agent detected. activeBranch= branches={[0]=beta, [1]=cn, [2]=eu, [3]=kr, [4]=sg, [5]=tw, [6]=us}
+D 2021-08-12 14:14:50.861015 [VersionManager] {Main} Beta branch is available: true
+D 2021-08-12 14:14:50.861032 [Agent] {Main} Versioning is now enabled
+D 2021-08-12 14:14:50.861058 [Agent] {Main} Triggering game versioning: battle.net
+D 2021-08-12 14:14:50.861163 [InstallManager] {Main} Sending a queued OnProcessPidsUpdated notification: agentUid=battle.net binaryType=game
+D 2021-08-12 14:14:50.861187 [InstallManager] {Main} Sending a queued OnProcessRunning notification: agentUid=battle.net binaryType=game
+I 2021-08-12 14:14:50.861201 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+D 2021-08-12 14:14:50.861221 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Off newStatus=On agentUid=battle.net
+I 2021-08-12 14:14:50.869452 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: 933bc0bcf199c8bed45ea00dc64cfa90 I) ***
+I 2021-08-12 14:14:51.184078 [FeatureManager] {Main} Moving feature record from active to inactive: friends_list_popout
+I 2021-08-12 14:14:51.184095 [FeatureManager] {Main} Moving feature record from active to inactive: cts_takeovers
+I 2021-08-12 14:14:51.184099 [FeatureManager] {Main} Moving feature record from active to inactive: overwatch_league_tab
+I 2021-08-12 14:14:51.184102 [FeatureManager] {Main} Moving feature record from active to inactive: blizzcon_tab
+D 2021-08-12 14:14:51.190454 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-08-12 14:14:51.190468 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-08-12 14:14:51.190475 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-08-12 14:14:51.190480 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-08-12 14:14:51.190484 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-08-12 14:14:51.190496 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-08-12 14:14:51.190502 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-08-12 14:14:51.190507 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-08-12 14:14:51.190512 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2021-08-12 14:14:51.190517 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-08-12 14:14:51.190523 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+D 2021-08-12 14:14:51.190529 [CatalogVarStorage] {Main} Setting var from catalog Services.HTTPClient.ConnectionTimeoutMS=0
+I 2021-08-12 14:14:51.192349 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2021-08-12 14:14:51.196279 [Main] {Main} Cached WidevineCDM is up-to-date: 4.10.2209.1
+I 2021-08-12 14:14:51.196353 [Registry] {Main} Failed to delete token from registry|error=ERROR_REGISTRY_OPEN_KEY_ERROR (12001)
+D 2021-08-12 14:14:51.616581 [ProductState] {Main} Game product state created: uid=odin
+D 2021-08-12 14:14:51.616696 [ProductState] {Main} InstallState (odin): currentOperation=Install currentOperationStatus=New
+I 2021-08-12 14:14:51.625462 [UnifiedAuth] {Main} UAuth: setting url: https://us.battle.net/login/es/logout?ref=https://us.battle.net/login/es/login.app?app=app reason: reset
+D 2021-08-12 14:14:51.739834 [ClientServiceAlertMonitor] {Main} Service alert monitor force update requested
+D 2021-08-12 14:14:51.739847 [ClientServiceAlertMonitor] {Main} Breaking News update requested
+D 2021-08-12 14:14:51.739852 [ClientServiceAlertMonitor] {Main} Maintenance update requested
+I 2021-08-12 14:14:52.366604 [CacheManager] {Main} CacheManager is now initialized
+I 2021-08-12 14:14:52.366621 [TactVersionWatcher] {Main} Fetched new tact metadata. productCode=catalogs region=us branch=PUB-29 version=1979 seq=152 buildConfig=03349576b728b69934a4538af5bd88b7
+D 2021-08-12 14:14:52.592532 [InstallManager] {Main} Game finished versioning battle.net
+I 2021-08-12 14:14:52.592699 [DIAG_BuildConfig] {Main} no 'encoding' key in build configuration '03349576b728b69934a4538af5bd88b7', selecting plain-data mode
+I 2021-08-12 14:14:52.592710 [CatalogLoader] {Main} *** LOAD STARTED default: Context(RemoteCAS: c90d8b332884f5adb1831a7a6c626fa4|tpr/catalogs/data) ***
+I 2021-08-12 14:14:52.926317 [FeatureManager] {Main} Feature changed: fore_limited_alpha_12c35791=true
+I 2021-08-12 14:14:52.926399 [FeatureManager] {Main} Feature changed: osi_prepurchase_8cc7097c=true
+I 2021-08-12 14:14:52.926443 [FeatureManager] {Main} Feature changed: osi_limited_play_1719a07d=true
+D 2021-08-12 14:14:52.935752 [ProductNode] {Main} ProductInfo modified: ODIN_retail
+I 2021-08-12 14:14:52.935839 [GameProduct] {Main} Changes to GameProduct(ODIN): ChangeFlags(524288)
+D 2021-08-12 14:14:52.935876 [ProductManager] {Main} Product modified: D3 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935906 [ProductManager] {Main} Product modified: D3CN ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.935919 [ProductManager] {Main} Product modified: D3X0 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935928 [ProductManager] {Main} Product modified: D3X1 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935937 [ProductManager] {Main} Product modified: Hero ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935948 [ProductManager] {Main} Product modified: LAZR ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935961 [ProductManager] {Main} Product modified: ODIN ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935972 [ProductManager] {Main} Product modified: ODIN_MW ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935982 [ProductManager] {Main} Product modified: OSI ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.935993 [ProductManager] {Main} Product modified: Pro ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936003 [ProductManager] {Main} Product modified: RTRO ProductChangeFlags(starter_items)
+D 2021-08-12 14:14:52.936014 [ProductManager] {Main} Product modified: S1 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936024 [ProductManager] {Main} Product modified: S2 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936036 [ProductManager] {Main} Product modified: VIPR ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936046 [ProductManager] {Main} Product modified: W3 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936057 [ProductManager] {Main} Product modified: WLBY ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936067 [ProductManager] {Main} Product modified: WTCG ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936077 [ProductManager] {Main} Product modified: WoW ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936088 [ProductManager] {Main} Product modified: WoWC ProductChangeFlags(starter_items)
+D 2021-08-12 14:14:52.936098 [ProductManager] {Main} Product modified: WoWX7 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936108 [ProductManager] {Main} Product modified: WoWX8 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936117 [ProductManager] {Main} Product modified: ZEUS ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936140 [ProductManager] {Main} Products updated
+D 2021-08-12 14:14:52.936927 [ProductNode] {Main} ProductInfo modified: ODIN_retail
+I 2021-08-12 14:14:52.936971 [GameProduct] {Main} Changes to GameProduct(ODIN): ChangeFlags(524288)
+D 2021-08-12 14:14:52.936985 [ProductManager] {Main} Product modified: D3 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.936998 [ProductManager] {Main} Product modified: D3CN ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.937008 [ProductManager] {Main} Product modified: D3X0 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937019 [ProductManager] {Main} Product modified: D3X1 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937028 [ProductManager] {Main} Product modified: Hero ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937039 [ProductManager] {Main} Product modified: LAZR ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937050 [ProductManager] {Main} Product modified: ODIN ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937060 [ProductManager] {Main} Product modified: ODIN_MW ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937070 [ProductManager] {Main} Product modified: OSI ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937081 [ProductManager] {Main} Product modified: Pro ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937091 [ProductManager] {Main} Product modified: RTRO ProductChangeFlags(starter_items)
+D 2021-08-12 14:14:52.937102 [ProductManager] {Main} Product modified: S1 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937112 [ProductManager] {Main} Product modified: S2 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937122 [ProductManager] {Main} Product modified: VIPR ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937133 [ProductManager] {Main} Product modified: W3 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937143 [ProductManager] {Main} Product modified: WLBY ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937154 [ProductManager] {Main} Product modified: WTCG ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937164 [ProductManager] {Main} Product modified: WoW ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937175 [ProductManager] {Main} Product modified: WoWC ProductChangeFlags(starter_items)
+D 2021-08-12 14:14:52.937185 [ProductManager] {Main} Product modified: WoWX7 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937194 [ProductManager] {Main} Product modified: WoWX8 ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937203 [ProductManager] {Main} Product modified: ZEUS ProductChangeFlags(quick_links,starter_items)
+D 2021-08-12 14:14:52.937226 [ProductManager] {Main} Products updated
+I 2021-08-12 14:14:52.937881 [FeatureManager] {Main} Feature changed: app_feedback_attention_center_cta=false
+I 2021-08-12 14:14:52.937915 [FeatureManager] {Main} Feature changed: mobile_promo=false
+I 2021-08-12 14:14:52.937940 [FeatureManager] {Main} Feature changed: friends_list_popout=true
+D 2021-08-12 14:14:52.949611 [ProductNode] {Main} ProductInfo modified: ODIN_retail
+I 2021-08-12 14:14:52.949666 [GameProduct] {Main} Changes to GameProduct(ODIN): ChangeFlags(524288)
+D 2021-08-12 14:14:52.949680 [ProductManager] {Main} Product modified: AUKS ProductChangeFlags(uid,supported_regions)
+D 2021-08-12 14:14:52.949771 [ProductManager] {Main} Product modified: D3 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949781 [ProductManager] {Main} Product modified: D3CN ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949788 [ProductManager] {Main} Product modified: D3X0 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949794 [ProductManager] {Main} Product modified: D3X1 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949800 [ProductManager] {Main} Product modified: FORE ProductChangeFlags(type_name,selector_display_name,uid,deprecated,logo_v2,game_background,install_background_v2,supported_regions,key_art)
+D 2021-08-12 14:14:52.949876 [ProductManager] {Main} Product modified: Hero ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949884 [ProductManager] {Main} Product modified: LAZR ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949892 [ProductManager] {Main} Product modified: ODIN ProductChangeFlags(name,uid,supports_starter_mode,tab_order,supported_regions,quick_links)
+D 2021-08-12 14:14:52.949903 [ProductManager] {Main} Product modified: ODIN_MW ProductChangeFlags(name,uid,supports_starter_mode,tab_order,supported_regions,quick_links)
+D 2021-08-12 14:14:52.949911 [ProductManager] {Main} Product modified: OSI ProductChangeFlags(type_name,selector_display_name,install_disabled_message,play_disabled_message,tab_order,supported_regions,quick_links)
+D 2021-08-12 14:14:52.949921 [ProductManager] {Main} Product modified: Pro ProductChangeFlags(quick_links,genre)
+D 2021-08-12 14:14:52.949929 [ProductManager] {Main} Product modified: RTRO ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949936 [ProductManager] {Main} Product modified: S1 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949943 [ProductManager] {Main} Product modified: S2 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949951 [ProductManager] {Main} Product modified: VIPR ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949959 [ProductManager] {Main} Product modified: W3 ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949965 [ProductManager] {Main} Product modified: WLBY ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.949972 [ProductManager] {Main} Product modified: WTCG ProductChangeFlags(tab_order,quick_links)
+D 2021-08-12 14:14:52.949980 [ProductManager] {Main} Product modified: WoW ProductChangeFlags(tab_order,quick_links)
+D 2021-08-12 14:14:52.949988 [ProductManager] {Main} Product modified: WoWC ProductChangeFlags(tab_order,flags)
+D 2021-08-12 14:14:52.949996 [ProductManager] {Main} Product modified: WoWX7 ProductChangeFlags(tab_order,quick_links)
+D 2021-08-12 14:14:52.950003 [ProductManager] {Main} Product modified: WoWX8 ProductChangeFlags(tab_order,quick_links)
+D 2021-08-12 14:14:52.950009 [ProductManager] {Main} Product modified: ZEUS ProductChangeFlags(quick_links)
+D 2021-08-12 14:14:52.950029 [ProductManager] {Main} Products updated
+D 2021-08-12 14:14:52.950627 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-08-12 14:14:52.950640 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-08-12 14:14:52.950649 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-08-12 14:14:52.950656 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-08-12 14:14:52.950663 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-08-12 14:14:52.950679 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-08-12 14:14:52.950689 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-08-12 14:14:52.950696 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-08-12 14:14:52.950705 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2021-08-12 14:14:52.950712 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-08-12 14:14:52.950721 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+D 2021-08-12 14:14:52.950729 [CatalogVarStorage] {Main} Setting var from catalog Services.HTTPClient.ConnectionTimeoutMS=0
+I 2021-08-12 14:14:53.096844 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2021-08-12 14:14:53.098305 [CatalogLoader] {Main} *** LOAD STARTED default: Context(RemoteCAS: c90d8b332884f5adb1831a7a6c626fa4|tpr/catalogs/data) ***
+D 2021-08-12 14:14:53.135566 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2021-08-12 14:14:53.135596 [CatalogVarStorage] {Main} Setting var from catalog Browser.DisableSiteIsolation=true
+D 2021-08-12 14:14:53.135606 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS,FORE
+D 2021-08-12 14:14:53.135614 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2021-08-12 14:14:53.135621 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2021-08-12 14:14:53.135639 [CatalogVarStorage] {Main} Setting var from catalog Client.Announcements.MaximumAnnouncements=20
+D 2021-08-12 14:14:53.135648 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2021-08-12 14:14:53.135656 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=3
+D 2021-08-12 14:14:53.135664 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2021-08-12 14:14:53.135673 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2021-08-12 14:14:53.135681 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+D 2021-08-12 14:14:53.135690 [CatalogVarStorage] {Main} Setting var from catalog Services.HTTPClient.ConnectionTimeoutMS=0
+I 2021-08-12 14:14:53.263385 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+D 2021-08-12 14:14:54.812689 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2021-08-12 14:14:54.817722 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/es/login.app?app=app
+D 2021-08-12 14:14:54.817746 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+D 2021-08-12 14:14:56.017243 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=Login
+I 2021-08-12 14:14:56.215939 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=4, oldRunning=1)
+I 2021-08-12 14:14:56.216172 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+W 2021-08-12 14:14:59.100463 [RemoteContentManager] {http} Request failed. url=https://nydus.battle.net/App/esES/client/App/alert?targetRegion=US statusCode=0 err=select/poll returned error
+D 2021-08-12 14:17:59.153161 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:18:00.387437 [UnifiedAuth] {} UAuth: browser state changed: HostedFlow
+D 2021-08-12 14:18:00.395909 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/flow/app?ref=https%3A%2F%2Fwww.facebook.com%2Fv2.12%2Fdialog%2Foauth%3Fclient_id%3D1173546789331741%26response_type%3Dcode%26state%3DAZXWQmxGlrmhl61v-xbLen1okxLnt38AQZbqb0NvPbKBNF9hTufArnDYBccDIerZAzdBdb0N318bzGHItEtgQyNod-aWRwe5o0aiBS6oRXchf3qX0cONQ6JcFY-oXO66a8IbomA6dzqxch94eJkuLq8%253D%26scheme%26redirect_uri%3Dhttps%253A%252F%252Fus.battle.net%252Flogin%252Fsignin%252Ffacebook%26scope%3Dpublic_profile%2Bemail%2Buser_friends&app=apph&providerId=facebook&isMASDK=false
+D 2021-08-12 14:18:00.395941 [UnifiedAuth] {Main} UAuth: set size from headers: 344x344 popup=1
+D 2021-08-12 14:18:00.395950 [UnifiedAuth] {Main} UAuth: status changed: RequestingToken
+D 2021-08-12 14:18:00.586408 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=HostedFlow
+I 2021-08-12 14:18:00.586446 [UnifiedAuth] {Main} Begin hosted flow: https://www.facebook.com/v2.12/dialog/oauth?client_id=1173546789331741&response_type=code&state=AZXWQmxGlrmhl61v-xbLen1okxLnt38AQZbqb0NvPbKBNF9hTufArnDYBccDIerZAzdBdb0N318bzGHItEtgQyNod-aWRwe5o0aiBS6oRXchf3qX0cONQ6JcFY-oXO66a8IbomA6dzqxch94eJkuLq8%3D&scheme&redirect_uri=https%3A%2F%2Fus.battle.net%2Flogin%2Fsignin%2Ffacebook&scope=public_profile+email+user_friends
+I 2021-08-12 14:18:00.586475 [ExternalAuth] {Main} Starting external authentication. id=1
+D 2021-08-12 14:30:44.706724 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:30:44.706802 [CommandQueue] {Main} Dispatching Command: launch_uid hs_beta
+D 2021-08-12 14:30:44.706807 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:30:44.706813 [CommandQueue] {Main} Dispatching Command: install  hs_beta torrent false  esES 0
+D 2021-08-12 14:30:44.706817 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:30:44.706824 [CommandQueue] {Main} Dispatching Command: setvar Client.ExternalMetadata eyJzZXNzaW9uIjoiIiwiZXhwaXJlc19hdCI6IjE2Mjg4NjUxNTU0NjIiLCJjbGllbnRfaWQiOiI3Nzg1MzUwNTAuMTYyODc3ODYxMyIsInVzZXJfYWdlbnRfb3ZlcnJpZGUiOiJNb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrMTAuMCUzQitXaW42NCUzQit4NjQlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStDaHJvbWUlMkY5Mi4wLjQ1MTUuMTMxK1NhZmFyaSUyRjUzNy4zNiJ9
+D 2021-08-12 14:30:44.718555 [ProductState] {Main} Game product state created: uid=hs_beta
+D 2021-08-12 14:30:44.718678 [ProductState] {Main} InstallState (hs_beta): currentOperation=Install currentOperationStatus=New
+D 2021-08-12 14:30:44.727284 [Frontend] {Main} Tracking info changed. client_id=778535050.1628778613, user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Safari%2F537.36
+D 2021-08-12 14:31:12.506846 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:31:12.506869 [CommandQueue] {Main} Dispatching Command: launch_uid hs_beta
+D 2021-08-12 14:31:12.506875 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:31:12.506882 [CommandQueue] {Main} Dispatching Command: install  hs_beta torrent false  esES 0
+D 2021-08-12 14:31:12.506886 [CommandQueue] {Main} Received IPC Message: IPC_COMMAND
+I 2021-08-12 14:31:12.506893 [CommandQueue] {Main} Dispatching Command: setvar Client.ExternalMetadata eyJzZXNzaW9uIjoiIiwiZXhwaXJlc19hdCI6IjE2Mjg4NjUxNTU0NjIiLCJjbGllbnRfaWQiOiI3Nzg1MzUwNTAuMTYyODc3ODYxMyIsInVzZXJfYWdlbnRfb3ZlcnJpZGUiOiJNb3ppbGxhJTJGNS4wKyUyOFdpbmRvd3MrTlQrMTAuMCUzQitXaW42NCUzQit4NjQlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYrJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStDaHJvbWUlMkY5Mi4wLjQ1MTUuMTMxK1NhZmFyaSUyRjUzNy4zNiJ9
+I 2021-08-12 14:32:03.720733 [UnifiedAuth] {Main} UAuth: login popup window was canceled.
+D 2021-08-12 14:32:03.720781 [UnifiedAuth] {Main} UAuth: status changed: Ready
+D 2021-08-12 14:32:03.947747 [ClientServiceAlertMonitor] {Main} Service alert monitor force update requested
+D 2021-08-12 14:32:03.947804 [ClientServiceAlertMonitor] {Main} Breaking News update requested
+D 2021-08-12 14:32:03.952102 [ClientServiceAlertMonitor] {Main} Maintenance update requested
+I 2021-08-12 14:32:03.978908 [ExternalAuth] {Main} Canceling external authentication request id=1
+I 2021-08-12 14:32:03.978951 [UnifiedAuth] {Main} UAuth: setting url: https://us.battle.net/login/es/logout?ref=https://us.battle.net/login/es/login.app?app=app reason: reset
+D 2021-08-12 14:32:03.992973 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:32:05.132072 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2021-08-12 14:32:05.148492 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/es/login.app?app=app
+D 2021-08-12 14:32:05.148515 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+E 2021-08-12 14:32:05.417829 [BrowserAppImpl] {Main} Uncaught JS Exception: |name=Login|url=https://us.battle.net/login/es/login.app?app=app|frameURL=https://us.battle.net/login/es/login.app?app=app|msg=Uncaught TypeError: Cannot read property 'stack' of null|stackTrace=
+	e (https://us.battle.net/login/es/login.app?app=app:74:747)
+E 2021-08-12 14:32:05.419756 [BrowserAppImpl] {Main} Uncaught JS Exception: |name=Login|url=https://us.battle.net/login/es/login.app?app=app|frameURL=https://us.battle.net/login/es/login.app?app=app|msg=Uncaught TypeError: Cannot set property 'value' of null|stackTrace=
+	fillAccountName (https://bnetus-a.akamaihd.net/login/static/js/login/login.min.1CCED.js:1:9151)
+	 (resources://client/js/phoenix-client.min.js?qotzq:19:88667)
+	a.emit (resources://client/js/phoenix-client.min.js?qotzq:1:6377)
+	value (resources://client/js/phoenix-client.min.js?qotzq:19:79212)
+	value (resources://client/js/phoenix-client.min.js?qotzq:19:79979)
+	handleListenerEvent (resources://client/js/phoenix-client.min.js?qotzq:19:135024)
+	a (resources://client/js/phoenix-client.min.js?qotzq:19:29352)
+	value (resources://client/js/phoenix-client.min.js?qotzq:19:32170)
+D 2021-08-12 14:32:05.535045 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=Login
+D 2021-08-12 14:32:18.500355 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:32:19.469008 [UnifiedAuth] {} UAuth: browser state changed: HostedFlow
+D 2021-08-12 14:32:19.487359 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/flow/app?ref=https%3A%2F%2Faccounts.google.com%2Fo%2Foauth2%2Fauth%3Fclient_id%3D196154489538-9rpkrg8u9qimu15c2p1gcas16qnocqrj.apps.googleusercontent.com%26response_type%3Dcode%26state%3DAeSxExG-DlmnILvhn9FRRHELyIIVviib3szQ8T9M6E0O9ROTFwMkGJiZCmtK4aPXAVmaFDbjiLzzbH2ldOTrN7l6DDVV1fljxPjSK-5nv8AROZ7AzS2FPRqBc0YvzMR4QbQbdaVUJlgsqimSCMYcl5I%253D%26scheme%26redirect_uri%3Dhttps%253A%252F%252Fus.battle.net%252Flogin%252Fsignin%252Fgoogle%26scope%3Dopenid%2Bprofile%2Bemail&app=apph&providerId=google&isMASDK=false
+D 2021-08-12 14:32:19.487390 [UnifiedAuth] {Main} UAuth: set size from headers: 344x344 popup=1
+D 2021-08-12 14:32:19.487398 [UnifiedAuth] {Main} UAuth: status changed: RequestingToken
+D 2021-08-12 14:32:19.648776 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=HostedFlow
+I 2021-08-12 14:32:19.648819 [UnifiedAuth] {Main} Begin hosted flow: https://accounts.google.com/o/oauth2/auth?client_id=196154489538-9rpkrg8u9qimu15c2p1gcas16qnocqrj.apps.googleusercontent.com&response_type=code&state=AeSxExG-DlmnILvhn9FRRHELyIIVviib3szQ8T9M6E0O9ROTFwMkGJiZCmtK4aPXAVmaFDbjiLzzbH2ldOTrN7l6DDVV1fljxPjSK-5nv8AROZ7AzS2FPRqBc0YvzMR4QbQbdaVUJlgsqimSCMYcl5I%3D&scheme&redirect_uri=https%3A%2F%2Fus.battle.net%2Flogin%2Fsignin%2Fgoogle&scope=openid+profile+email
+I 2021-08-12 14:32:19.648831 [ExternalAuth] {Main} Starting external authentication. id=2
+I 2021-08-12 14:34:09.600455 [UnifiedAuth] {Main} UAuth: login popup window was canceled.
+D 2021-08-12 14:34:09.600510 [UnifiedAuth] {Main} UAuth: status changed: Ready
+D 2021-08-12 14:34:09.683644 [ClientServiceAlertMonitor] {Main} Service alert monitor force update requested
+D 2021-08-12 14:34:09.683677 [ClientServiceAlertMonitor] {Main} Breaking News update requested
+D 2021-08-12 14:34:09.687366 [ClientServiceAlertMonitor] {Main} Maintenance update requested
+I 2021-08-12 14:34:09.707649 [ExternalAuth] {Main} Canceling external authentication request id=2
+I 2021-08-12 14:34:09.707692 [UnifiedAuth] {Main} UAuth: setting url: https://us.battle.net/login/es/logout?ref=https://us.battle.net/login/es/login.app?app=app reason: reset
+D 2021-08-12 14:34:09.728397 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:34:10.720157 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2021-08-12 14:34:10.728135 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/es/login.app?app=app
+D 2021-08-12 14:34:10.728158 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+D 2021-08-12 14:34:10.809315 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=Login
+D 2021-08-12 14:34:19.900335 [UnifiedAuth] {Main} UAuth: status changed: RequestingToken
+D 2021-08-12 14:34:19.900363 [UnifiedAuth] {Main} UAuth: login submitted
+D 2021-08-12 14:34:20.998883 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:34:21.213392 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2021-08-12 14:34:21.223461 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/es/login.app?app=app
+D 2021-08-12 14:34:21.223503 [UnifiedAuth] {Main} UAuth: status changed: Error
+E 2021-08-12 14:34:21.223508 [UnifiedAuth] {Main} UAuth: login error: errorCode=INVALID_PASSWORD supportCode=BLZBNTTAS00000002 linkMessage=¿Has olvidado tu contraseña? hasLink=1
+D 2021-08-12 14:34:21.223627 [UnifiedAuth] {Main} UAuth: status changed: Ready
+I 2021-08-12 14:34:21.223643 [UnifiedAuth] {Main} UAuth: setting url: https://us.battle.net/login/es/logout?ref=https://us.battle.net/login/es/login.app?app=app reason: reset
+D 2021-08-12 14:34:21.239862 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+D 2021-08-12 14:34:21.258189 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2021-08-12 14:34:21.366321 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=None
+D 2021-08-12 14:34:21.661407 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2021-08-12 14:34:21.671430 [UnifiedAuth] {Main} UAuth: begin loading: https://us.battle.net/login/es/login.app?app=app
+D 2021-08-12 14:34:21.671453 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+D 2021-08-12 14:34:21.717206 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=Login
+I 2021-08-12 14:34:25.165123 [Main] {Main} Opening URL externally from ExternalLinkResolver: https://account.battle.net/recovery/?utm_source=app-login&utm_medium=internal&utm_content=cant-login&theme=bnet-next&app=apph&deviceId=%7B%20%22RGKY%22%20%3A%20280137202%2C%20%22CPGE%22%20%3A%202290226472%2C%20%22ULNG%22%20%3A%203662421301%2C%20%22SLNG%22%20%3A%20844173735%2C%20%22CNME%22%20%3A%20325002110%2C%20%22UNME%22%20%3A%2052712540%2C%20%22UTCO%22%20%3A%20353113755%2C%20%22CARC%22%20%3A%201007465396%2C%20%22CREV%22%20%3A%20738628086%2C%20%22CLVL%22%20%3A%20856466825%2C%20%22PMEM%22%20%3A%201859928862%2C%20%22PSZE%22%20%3A%2022382980%2C%20%22OVER%22%20%3A%202281370840%2C%20%22CVRA%22%20%3A%203619763535%2C%20%22CFTC%22%20%3A%204294462801%2C%20%22CFTD%22%20%3A%203661751046%2C%20%22CEFC%22%20%3A%201933075630%2C%20%22CEFD%22%20%3A%201813000971%2C%20%22CBRD%22%20%3A%202786864039%2C%20%22CVEN%22%20%3A%20598815718%2C%20%22ANME%22%20%3A%20657382694%2C%20%22ADSC%22%20%3A%203380486421%2C%20%22MAC%22%20%3A%203507031252%20%7D&_ga=2.248299022.861776946.1628777881-1047292796.1622738185
+D 2021-08-12 14:37:46.812298 [GameController] {Main} Shutting down GameController
+I 2021-08-12 14:37:46.812334 [GameController] {Main} Deleting GameFamily: , # of game accounts:0
+D 2021-08-12 14:37:46.812421 [ProductState] {Main} Game product state destroyed: uid=odin
+D 2021-08-12 14:37:46.812445 [ProductState] {Main} Game product state destroyed: uid=hs_beta
+D 2021-08-12 14:37:46.812467 [ProductState] {Main} Game product state destroyed: uid=
+I 2021-08-12 14:37:46.812655 [ToastManager] {Main} Clearing toast queue
+D 2021-08-12 14:37:48.459916 [Main] {Main} Shutting down Backend
+D 2021-08-12 14:37:48.459933 [Main] {Main} Closing IPC Service
+D 2021-08-12 14:37:48.459937 [CommandQueue] {Main} IPCService is shutting down
+D 2021-08-12 14:37:48.460083 [Main] {Main} Shutting down account manager
+D 2021-08-12 14:37:48.460103 [Main] {Main} Shutting down CacheManager
+D 2021-08-12 14:37:48.460110 [Main] {Main} Shutting down analytics processor
+D 2021-08-12 14:37:48.460244 [Main] {Main} Shutting down worker pool
+D 2021-08-12 14:37:48.460619 [Main] {Main} Shutting down backend processor
+D 2021-08-12 14:37:48.461334 [Main] {Main} Shutting down data cache
+D 2021-08-12 14:37:48.461445 [Main] {Main} Shutting down catalog manager
+D 2021-08-12 14:37:48.461640 [Main] {Main} Shutting down environment manager
+D 2021-08-12 14:37:48.461658 [Main] {Main} Shutting down battle.net api gateway
+D 2021-08-12 14:37:48.461662 [Main] {Main} Shutting down suggested friends service
+D 2021-08-12 14:37:48.461668 [Main] {Main} Shutting down voice service
+D 2021-08-12 14:37:48.461671 [Main] {Main} Shutting down remote content manager
+D 2021-08-12 14:37:48.461675 [Main] {Main} Shutting down analytics session
+D 2021-08-12 14:37:48.461679 [Main] {Main} Shutting down agent manager
+D 2021-08-12 14:37:48.461683 [Agent] {Main} PolicyHandler Thread STOPPING
+D 2021-08-12 14:37:48.461721 [Agent] {Agent} PolicyHandlerThreadProc: The rest is silence.
+D 2021-08-12 14:37:48.461823 [Agent] {Main} PolicyHandler Thread STOPPED
+D 2021-08-12 14:37:48.462528 [Agent] {Main} Communicated shutdown to Agent
+D 2021-08-12 14:37:48.462595 [Main] {Main} Shutting down game provider
+D 2021-08-12 14:37:48.462607 [Main] {Main} Shutting down battle.net interface
+D 2021-08-12 14:37:48.462804 [Main] {Main} Shutting down callback queue
+D 2021-08-12 14:37:48.462820 [WebServer] {Main} Shutting down WebServerImpl
+D 2021-08-12 14:37:48.462957 [WebServer] {Main} WebServerImpl is stopped
+D 2021-08-12 14:37:48.567238 [DIAG_BNL_Voice] {Main} {1bc} debug: Notification client reference removed: 0

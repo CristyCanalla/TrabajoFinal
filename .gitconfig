@@ -1,0 +1,9 @@
+[user]
+	gmail = mcgprogramacionfullstack@gmail.com
+	name = CristyCanalla
+	email = 91090270+CristyCanalla@users.noreply.github.com
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
